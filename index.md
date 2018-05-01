@@ -5,16 +5,16 @@
 **Інколи при створенні проектів необхідно повернутися до попередньої версії, найчастіше саме для цього використовують GitHub. Проте він зможе також допомогти створити власну авторську сторінку, що буде дуже корисно для недосвідчених користувачів.**
 
 ### Помилки
-
 Коли є помилки в структурі, вам допоможе [editor on GitHub](https://help.github.com/articles/page-build-failed-config-file-error/)
 найчастіше зустрічаються такі:
 ###### використання ":"
-#Correct example: timezone: Africa/Nairobi 
-#Build fail example: timezone:Africa/Nairobi.
+Correct example: timezone: Africa/Nairobi 
+Build fail example: timezone:Africa/Nairobi.
 ###### не поставлені "
 Correct example: title: "my awesome site: an adventure in parse errors" 
 Build fail example: title: my awesome site: an adventure in parse errors
 Хоча варто звернути увагу, при рекомендаціях на путвнику, лапок немає. 
+### **Зверніть увагу** для користування цим ресурсом необхідне знання англійської мови!
 ```markdown
 Syntax highlighted code block
 
@@ -33,12 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Для більш детальної інформації [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Дякую за увагу
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Katrinkleina/Katrinkleina.github.io.2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
