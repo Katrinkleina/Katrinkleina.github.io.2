@@ -1,13 +1,20 @@
-## Welcome to GitHub Pages
+## Ласкаво прошу на мою авторську сторінку
 ![Imagine of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 *За допомогою цього сайту [editor on GitHub](https://guides.github.com/features/pages/) була створена сторінка автора.*
 
 **Інколи при створенні проектів необхідно повернутися до попередньої версії, найчастіше саме для цього використовують GitHub. Проте він зможе також допомогти створити власну авторську сторінку, що буде дуже корисно для недосвідчених користувачів.**
 
-### Markdown
+### Помилки
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Коли є помилки в структурі, вам допоможе [editor on GitHub](https://help.github.com/articles/page-build-failed-config-file-error/)
+найчастіше зустрічаються такі:
+###### використання ":"
+Correct example: timezone: Africa/Nairobi 
+Build fail example: timezone:Africa/Nairobi.
+###### не поставлені "
+Correct example: title: "my awesome site: an adventure in parse errors" 
+Build fail example: title: my awesome site: an adventure in parse errors
+Хоча варто звернути увагу, при рекомендаціях на путвнику, лапок немає. 
 ```markdown
 Syntax highlighted code block
 
