@@ -9,8 +9,8 @@
 Коли є помилки в структурі, вам допоможе [editor on GitHub](https://help.github.com/articles/page-build-failed-config-file-error/)
 найчастіше зустрічаються такі:
 ###### використання ":"
-Correct example: timezone: Africa/Nairobi 
-Build fail example: timezone:Africa/Nairobi.
+#Correct example: timezone: Africa/Nairobi 
+#Build fail example: timezone:Africa/Nairobi.
 ###### не поставлені "
 Correct example: title: "my awesome site: an adventure in parse errors" 
 Build fail example: title: my awesome site: an adventure in parse errors
