@@ -15,22 +15,15 @@ Correct example: title: "my awesome site: an adventure in parse errors"
 Build fail example: title: my awesome site: an adventure in parse errors
 Хоча варто звернути увагу, при рекомендаціях на путвнику, лапок немає. 
 ### **Зверніть увагу** для користування цим ресурсом необхідне знання англійської мови!
+
+Якщо ви хочете змінити назву чи опис своєї сторінки, для цього знадобиться файл _config.yml 
+### **Ось як він виглядає для моєї сторінки**
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+theme: jekyll-theme-merlot
+title: "Welcome to homepage!"
+description: Feel free and be Happy
 ```
 
 Для більш детальної інформації [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
