@@ -15,6 +15,7 @@ Correct example: title: "my awesome site: an adventure in parse errors"
 Build fail example: title: my awesome site: an adventure in parse errors
 Хоча варто звернути увагу, при рекомендаціях на путвнику, лапок немає. 
 ### **Зверніть увагу** для користування цим ресурсом необхідне знання англійської мови!
+В іншому випадку ви можете користуватися перекладачем [google translate](https://translate.google.com)
 
 Якщо ви хочете змінити назву чи опис своєї сторінки, для цього знадобиться файл _config.yml 
 ### **Ось як він виглядає для моєї сторінки**
