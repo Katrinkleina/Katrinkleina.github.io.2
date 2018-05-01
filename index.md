@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 ![Imagine of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-*You can use the [editor on GitHub](https://github.com/Katrinkleina/Katrinkleina.github.io.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.*
+*За допомогою цього сайту [editor on GitHub](https://guides.github.com/features/pages/) була створена сторінка автора.*
 
-**Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.**
+**Інколи при створенні проектів необхідно повернутися до попередньої версії, найчастіше саме для цього використовують GitHub. Проте він зможе також допомогти створити власну авторську сторінку, що буде дуже корисно для недосвідчених користувачів.**
 
 ### Markdown
 
