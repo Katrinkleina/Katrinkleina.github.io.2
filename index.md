@@ -1,5 +1,8 @@
 ## Ласкаво прошу на мою авторську сторінку
-![Imagine of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Imagine](http://poradu.pp.ua/uploads/posts/2015-09/den-narodzhennya-sonnik-svyatkuvati-den-narodzhennya-u-sn_331.jpeg)
+
+Я збираюся святкувати свій [День народження](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTBldXVkbXZ0YzFyYjI3bGc2ZHYyb241YzEgc3VuY2FuZGllM0Bt&tmsrc=suncandie3%40gmail.com) в Ужгороді, можливо є охочі скласти компанію?
+
 *За допомогою цього сайту [editor on GitHub](https://guides.github.com/features/pages/) була створена сторінка автора.*
 
 **Інколи при створенні проектів необхідно повернутися до попередньої версії, найчастіше саме для цього використовують GitHub. Проте він зможе також допомогти створити власну авторську сторінку, що буде дуже корисно для недосвідчених користувачів.**
